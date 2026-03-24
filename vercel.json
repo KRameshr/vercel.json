@@ -1,3 +1,6 @@
+
+file is vercel.json
+
 Vercel json config for express backend
 
   {
@@ -20,7 +23,8 @@ Vercel json config for express backend
         }
     ]
 }
-Vercel json config to support React Router in frontend
+Vercel json config to support React Router in frontend 
+file is vercel.json
 
   {
     "rewrites": [
@@ -30,3 +34,5 @@ Vercel json config to support React Router in frontend
       }
     ]
   }
+initalised git
+  project completd is message
